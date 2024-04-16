@@ -1,0 +1,119 @@
+{
+    "collection": {
+    "info": {
+    "_postman_id": "1af621f0-a36f-4b7c-9c9c-eb511962bd66",
+    "name": "Student-Mentor",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-01-28T17:36:32.000Z",
+    "uid": "32502529-1af621f0-a36f-4b7c-9c9c-eb511962bd66",
+    "createdAt": null,
+    "lastUpdatedBy": null
+    },
+    "item": [
+    {
+    "name": "createMentor",
+    "id": "7358c215-2904-447f-87c6-adbc646f8f39",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-7358c215-2904-447f-87c6-adbc646f8f39"
+    },
+    {
+    "name": "getMentors",
+    "id": "db2d0544-f97d-49f3-b6a0-e78f5e3bc739",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-db2d0544-f97d-49f3-b6a0-e78f5e3bc739"
+    },
+    {
+    "name": "createStudent",
+    "id": "0797c7bb-1d7a-47ba-ac49-a190eb75ade1",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-0797c7bb-1d7a-47ba-ac49-a190eb75ade1"
+    },
+    {
+    "name": "assignStudentToMentor",
+    "id": "2f417854-6f42-4304-979f-1f58044c5470",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-2f417854-6f42-4304-979f-1f58044c5470"
+    },
+    {
+    "name": "changeMentorToStudent",
+    "id": "6b958023-1106-4505-9733-f721971d117b",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-6b958023-1106-4505-9733-f721971d117b"
+    },
+    {
+    "name": "getStudents",
+    "id": "399d684e-177c-4438-a206-6a19db392312",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-399d684e-177c-4438-a206-6a19db392312"
+    },
+    {
+    "name": "getStudentByMentor",
+    "id": "077cef3e-59ea-4a3e-82da-dbc728bad6ea",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-077cef3e-59ea-4a3e-82da-dbc728bad6ea"
+    },
+    {
+    "name": "previousMentor",
+    "id": "f0d8ffa9-3a98-4699-a240-24a8ac9fb005",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-f0d8ffa9-3a98-4699-a240-24a8ac9fb005"
+    }
+    ]
+    }
+    }
